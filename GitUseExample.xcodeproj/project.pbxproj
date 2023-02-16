@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F90797E0299DD761004A8861 /* MapForItinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = F90797DF299DD761004A8861 /* MapForItinerary.swift */; };
 		F9345143299CE40F0014FF27 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9345142299CE40F0014FF27 /* AppDelegate.swift */; };
 		F9345145299CE40F0014FF27 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9345144299CE40F0014FF27 /* SceneDelegate.swift */; };
 		F9345147299CE40F0014FF27 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F9345146299CE40F0014FF27 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		F90797DF299DD761004A8861 /* MapForItinerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapForItinerary.swift; sourceTree = "<group>"; };
 		F934513F299CE40F0014FF27 /* GitUseExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitUseExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F9345142299CE40F0014FF27 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F9345144299CE40F0014FF27 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				F9345142299CE40F0014FF27 /* AppDelegate.swift */,
 				F9345144299CE40F0014FF27 /* SceneDelegate.swift */,
 				F9345146299CE40F0014FF27 /* ViewController.swift */,
+				F90797DF299DD761004A8861 /* MapForItinerary.swift */,
 				F9345148299CE40F0014FF27 /* Main.storyboard */,
 				F934514B299CE4100014FF27 /* Assets.xcassets */,
 				F934514D299CE4100014FF27 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F90797E0299DD761004A8861 /* MapForItinerary.swift in Sources */,
 				F9345147299CE40F0014FF27 /* ViewController.swift in Sources */,
 				F9345143299CE40F0014FF27 /* AppDelegate.swift in Sources */,
 				F9345145299CE40F0014FF27 /* SceneDelegate.swift in Sources */,
